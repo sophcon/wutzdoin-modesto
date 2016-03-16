@@ -1,0 +1,113 @@
+// Variables
+//
+// Copy settings from this file into the provided `_custom.scss` to override
+// the Bootstrap defaults without modifying key, versioned files.
+
+
+// Table of Contents
+//
+// Colors
+// Options
+// Spacing
+// Body
+// Links
+// Grid breakpoints
+// Grid containers
+// Grid columns
+// Fonts
+// Components
+
+// General variable structure
+//
+// Variable format should follow the `$component-modifier-state-property` order.
+
+
+// Colors
+//
+// Grayscale and brand colors for use across Bootstrap.
+$gray-dark:                 #373a3c !default;
+$gray:                      #55595c !default;
+$gray-light:                #818a91 !default;
+$gray-lighter:              #eceeef !default;
+$gray-lightest:             #f7f7f9 !default;
+
+
+$brand-primary:             #2B283B !default;
+$brand-secondary:           #E8DA07 !default;
+$brand-success:             #0BA38E !default;
+$brand-info:                #7BB2DB !default;
+$brand-warning:             #F4BD2F !default;
+$brand-danger:              #9A1E43 !default;
+$brand-accent:              #0BA38E !default;
+$brand-primary-transparent: rgba(54,48,74,.80) !default;
+// Our variables
+$base-font-family: Campton-Medium, sans-serif;
+$navbar-height:    52px;
+$spacing-unit:     30px;
+
+$twitter-color:    #9AE4E8;
+$facebook-color:   #3b5998;
+$body-bg:          #fff !default;
+
+// Width of the content area
+$content-width:             800px;
+
+// Size variables
+$ad-height:                 110px;
+$footer-height:             194px;
+$default-section-height:    300px;
+
+// Typography
+// Pixel value used to responsively scale all typography. Applied to the `<html>` element.
+$font-size-root:             16px !default;
+
+$font-size-base:             1rem !default;
+$font-size-lg:               1.25rem !default;
+$font-size-sm:               .875rem !default;
+$font-size-xs:               .75rem !default;
+
+// Form states and alerts
+//
+// Define colors for form feedback states and, by default, alerts.
+
+$state-success-text:             #158277 !default;
+$state-success-bg:               #dff0d8 !default;
+$state-success-border:           darken($state-success-bg, 5%) !default;
+
+$state-info-text:                #31708f !default;
+$state-info-bg:                  #d9edf7 !default;
+$state-info-border:              darken($state-info-bg, 7%) !default;
+
+$state-warning-text:             #8a6d3b !default;
+$state-warning-bg:               #fcf8e3 !default;
+$state-warning-border:           darken($state-warning-bg, 5%) !default;
+
+$state-danger-text:              #a94442 !default;
+$state-danger-bg:                #f2dede !default;
+$state-danger-border:            darken($state-danger-bg, 5%) !default;
+
+// Grid breakpoints
+//
+// Define the minimum and maximum dimensions at which your layout will change,
+// adapting to different screen sizes, for use in media queries.
+
+$grid-breakpoints: (
+  // Extra small screen / phone
+  xs: 0,
+  // Small screen / phone
+  sm: 544px,
+  // Medium screen / tablet
+  md: 768px,
+  // Large screen / desktop
+  lg: 992px,
+  // Extra large screen / wide desktop
+  xl: 1200px,
+  // HD
+  xxl: 2000px,
+  // 4K
+  xxxl: 3000px
+) !default;
+
+$logo-height: 60px;
+$banner-logo-height: 80%;
+$banner-logo-height-lg: 808%
