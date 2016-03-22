@@ -10,4 +10,4 @@ url-text: "Upload a Flyer"
 url-css: "text-white"
 css: bg-dark-3
 ---
-We curate flyers once a week, but why wait? Submit a flyer, give us the deets, and we'll make sure you’re being promoted just as fast as you can say Wutzdoin!
+We curate flyers once a week, but why wait? Submit a flyer, give us the deets, and we'll make sure you’re being promoted just as fast as you can say Modesto Reboot!

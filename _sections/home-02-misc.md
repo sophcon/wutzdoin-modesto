@@ -10,4 +10,4 @@ url-text: "Show me the gems"
 url-css: "text-white"
 css: bg-accent
 ---
-Hey UC Merced students! Looking for books/roommate/place-to-rent? College kid or not, find and post your hidden gems on Wutzdoin.
+Hey MJC students! Looking for books/roommate/place-to-rent? College kid or not, find and post your hidden gems on Modesto Reboot.

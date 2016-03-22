@@ -1,5 +1,5 @@
 ---
-title: How WutzDoin works
+title: How Modesto Reboot works
 page: About
 layout: section_seq-card
 css-class: bg-accent
@@ -22,9 +22,9 @@ cards:
     img-alt: "Image of girl leaning on elbows viewing cell phone."
     description:
       When then make this content available for consumption via the
-      WutzDoin website. Optimizing our user-experience to be fun and social.
+      Modesto Reboot website. Optimizing our user-experience to be fun and social.
 ---
-WutzDoin enlists the assistance of enthusiastic community members to help
+Modesto Reboot enlists the assistance of enthusiastic community members to help
 currate content. This ensures that the content that is delivered to a
-particular community is truly relevant. If WutzDoin cannot find a
+particular community is truly relevant. If Modesto Reboot cannot find a
 enthusiastic community member we will not launch a site in that location.

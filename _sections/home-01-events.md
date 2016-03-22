@@ -10,4 +10,4 @@ url-text: "See local events"
 url-css: "text-white"
 css: bg-primary
 ---
-Hi it's me, you're butt, can you get up off me! Let's go do something fun! You can drive around Merced to find every last flyer or, see them all now, on Wutzdoin.
+Hi it's me, you're butt, can you get up off me! Let's go do something fun! You can drive around Modesto to find every last flyer or, see them all now, on Modesto Reboot.
